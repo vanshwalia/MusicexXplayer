@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Musicex</string>
+    <string name="musicex_x_player">        MUSICex X PLAYER</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Exit</string>
+    <string name="note">note</string>
+    <string name="note_image">note image</string>
+    <string name="status">Press Play button to play music...</string>
+</resources>
